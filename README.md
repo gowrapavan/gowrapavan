@@ -83,7 +83,9 @@
 ## certificates
 
 [**View Android Developer Virtual Internship (PDF)**](ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
+
 [**View Al-ML Virtual Internship (PDF)**](Ai-ML-Gowra-Pavan-Kumar.pdf)
+
 [**View Generative Al Virtual Internship (PDF)**](Generative-AI-Gowra-Pavan-Kumar.pdf)
 
 
