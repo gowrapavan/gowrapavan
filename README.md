@@ -80,73 +80,152 @@
 
 ---
 
-## Certificates
+<style>
+  /* General container styling for centering and spacing */
+  .certificates-container {
+    padding: 20px;
+    background-color: #f4f7f9; /* Light, subtle background */
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+  }
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  /* Main grid for responsive layout */
+  .certificate-grid {
+    display: grid;
+    gap: 25px;
+    /* Responsive layout: 1 column on small screens, 2 on medium, 3 on large */
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  }
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Introduction to Cybersecurity</h3>
-    <a href="Introduction_to_Cybersecurity_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  /* Individual card styling */
+  .certificate-card {
+    border: 1px solid #e0e6ed;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); /* Stronger shadow for depth */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 120px;
+  }
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Introduction to Packet Tracer</h3>
-    <a href="Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  /* Hover effect for interactivity */
+  .certificate-card:hover {
+    transform: translateY(-5px); /* Lift the card slightly */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  }
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Networking Essentials</h3>
-    <a href="Networking_Essentials_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  /* Heading style */
+  .certificate-card h3 {
+    margin-top: 0;
+    font-size: 1.15em;
+    color: #333; /* Darker text for readability */
+    line-height: 1.4;
+    margin-bottom: 15px;
+  }
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">JavaScript Essentials 1</h3>
-    <a href="JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  /* Link button styling */
+  .certificate-card .view-pdf-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: #007bff; /* Primary blue for action */
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    margin-top: auto; /* Pushes the button to the bottom */
+  }
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Linux Essentials</h3>
-    <a href="Linux_Essentials.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  /* Link button hover effect */
+  .certificate-card .view-pdf-btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Cybersecurity Essentials</h3>
-    <a href="Cybersecurity_Essentials_certificate.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  /* Section Header Styling */
+  .section-header {
+    font-size: 2em;
+    color: #007bff;
+    border-bottom: 3px solid #007bff;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+</style>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Programming for Problem Solving Using C</h3>
-    <a href="Programming_for_Problem_Solving_Using_C.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Machine Learning with Python</h3>
-    <a href="Machine_Learning_with_Python.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Salesforce Developer Virtual Internship</h3>
-    <a href="Salesforce_developer_virtual_internship.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Android Developer Virtual Internship</h3>
-    <a href="ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">AI-ML Virtual Internship</h3>
-    <a href="Ai-ML-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Generative AI Virtual Internship</h3>
-    <a href="Generative-AI-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+<div class="certificates-container">
+  <h2 class="section-header">🏆 Professional Certificates & Internships</h2>
   
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Python Programming</h3>
-    <a href="Python_Programming.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  <div class="certificate-grid">
+
+    <div class="certificate-card">
+      <h3>Introduction to Cybersecurity</h3>
+      <a href="Introduction_to_Cybersecurity_certificate_218x1a1227.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Introduction to Packet Tracer</h3>
+      <a href="Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Networking Essentials</h3>
+      <a href="Networking_Essentials_certificate_218x1a1227.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>JavaScript Essentials 1</h3>
+      <a href="JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Linux Essentials</h3>
+      <a href="Linux_Essentials.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Cybersecurity Essentials</h3>
+      <a href="Cybersecurity_Essentials_certificate.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Programming for Problem Solving Using C</h3>
+      <a href="Programming_for_Problem_Solving_Using_C.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Machine Learning with Python</h3>
+      <a href="Machine_Learning_with_Python.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Salesforce Developer Virtual Internship</h3>
+      <a href="Salesforce_developer_virtual_internship.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Android Developer Virtual Internship</h3>
+      <a href="ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>AI-ML Virtual Internship</h3>
+      <a href="Ai-ML-Gowra-Pavan-Kumar.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
+    <div class="certificate-card">
+      <h3>Generative AI Virtual Internship</h3>
+      <a href="Generative-AI-Gowra-Pavan-Kumar.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+    
+    <div class="certificate-card">
+      <h3>Python Programming</h3>
+      <a href="Python_Programming.pdf" class="view-pdf-btn">View PDF</a>
+    </div>
+
   </div>
 </div>
 
