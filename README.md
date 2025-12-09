@@ -80,7 +80,25 @@
 
 ---
 
-## certificates
+## Certificates
+
+[**View Introduction to Cybersecurity (PDF)**](Introduction_to_Cybersecurity_certificate_218x1a1227.pdf)
+
+[**View Introduction to Packet Tracer (PDF)**](Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf)
+
+[**View Networking Essentials (PDF)**](Networking_Essentials_certificate_218x1a1227.pdf)
+
+[**View JavaScript Essentials 1 (PDF)**](JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf)
+
+[**View Linux Essentials (PDF)**](Linux Essentials.pdf)
+
+[**View Cybersecurity Essentials (PDF)**](Cybersecurity_Essentials_certificate.pdf)
+
+[**View Programming for Problem Solving Using C (PDF)**](Programming for Problem Solving Using C.pdf)
+
+[**View Machine Learning with Python (PDF)**](Machine Learning with Python.pdf)
+
+[**View Salesforce Developer Virtual Internship (PDF)**](Salesforce developer virtual internship.pdf)
 
 [**View Android Developer Virtual Internship (PDF)**](ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
 
