@@ -82,20 +82,19 @@
 
 ## 📜 Certificates
 
-* **Introduction to Cybersecurity** - [View PDF](Introduction_to_Cybersecurity_certificate_218x1a1227.pdf)
-* **Introduction to Packet Tracer** - [View PDF](Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf)
-* **Networking Essentials** - [View PDF](Networking_Essentials_certificate_218x1a1227.pdf)
-* **JavaScript Essentials 1** - [View PDF](JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf)
-* **Linux Essentials** - [View PDF](Linux_Essentials.pdf)
-* **Cybersecurity Essentials** - [View PDF](Cybersecurity_Essentials_certificate.pdf)
-* **Python Programming** - [View PDF](Python_Programming.pdf)
-* **Programming for Problem Solving Using C** - [View PDF](Programming_for_Problem_Solving_Using_C.pdf)
-* **Machine Learning with Python** - [View PDF](Machine_Learning_with_Python.pdf)
-* **Salesforce Developer Virtual Internship** - [View PDF](Salesforce_developer_virtual_internship.pdf)
-* **Android Developer Virtual Internship** - [View PDF](ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
-* **AI-ML Virtual Internship** - [View PDF](Ai-ML-Gowra-Pavan-Kumar.pdf)
-* **Generative AI Virtual Internship** - [View PDF](Generative-AI-Gowra-Pavan-Kumar.pdf)
-
+* **Introduction to Cybersecurity** - [View PDF](/certificates/Introduction_to_Cybersecurity_certificate_218x1a1227.pdf)
+* **Introduction to Packet Tracer** - [View PDF](/certificates/Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf)
+* **Networking Essentials** - [View PDF](/certificates/Networking_Essentials_certificate_218x1a1227.pdf)
+* **JavaScript Essentials 1** - [View PDF](/certificates/JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf)
+* **Linux Essentials** - [View PDF](/certificates/Linux_Essentials.pdf)
+* **Cybersecurity Essentials** - [View PDF](/certificates/Cybersecurity_Essentials_certificate.pdf)
+* **Python Programming** - [View PDF](/certificates/Python_Programming.pdf)
+* **Programming for Problem Solving Using C** - [View PDF](/certificates/Programming_for_Problem_Solving_Using_C.pdf)
+* **Machine Learning with Python** - [View PDF](/certificates/Machine_Learning_with_Python.pdf)
+* **Salesforce Developer Virtual Internship** - [View PDF](/certificates/Salesforce_developer_virtual_internship.pdf)
+* **Android Developer Virtual Internship** - [View PDF](/certificates/ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
+* **AI-ML Virtual Internship** - [View PDF](/certificates/Ai-ML-Gowra-Pavan-Kumar.pdf)
+* **Generative AI Virtual Internship** - [View PDF](/certificates/Generative-AI-Gowra-Pavan-Kumar.pdf)
 
 ## 📫 Contact Me
 
