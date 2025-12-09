@@ -81,7 +81,8 @@
 ---
 
 
-📜 Certificates
+
+##📜 Certificates
 <div style="display: flex; flex-direction: column; gap: 10px; padding: 10px; background-color: #2e2e2e; border-radius: 12px;">
 
   <div style=" display: flex; justify-content: space-between; align-items: center; padding: 15px; background-color: #3c3c3c; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.5); border-left: 5px solid #00aaff; /* Accent Color / transition: background-color 0.3s ease; ">     <h4 style="margin: 0; font-weight: 500; color: #ffffff;">Introduction to Cybersecurity</h4>     <a href="Introduction_to_Cybersecurity_certificate_218x1a1227.pdf" style=" text-decoration: none; color: #ffffff; background-color: #00aaff; / Button Color */ padding: 6px 12px; border-radius: 4px; font-weight: bold; transition: background-color 0.3s ease; " onmouseover="this.style.backgroundColor='#0088cc'" onmouseout="this.style.backgroundColor='#00aaff'" >View PDF</a>   </div>
