@@ -90,15 +90,15 @@
 
 [**View JavaScript Essentials 1 (PDF)**](JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf)
 
-[**View Linux Essentials (PDF)**](Linux Essentials.pdf)
+[**View Linux Essentials (PDF)**](Linux_Essentials.pdf)
 
 [**View Cybersecurity Essentials (PDF)**](Cybersecurity_Essentials_certificate.pdf)
 
-[**View Programming for Problem Solving Using C (PDF)**](Programming for Problem Solving Using C.pdf)
+[**View Programming for Problem Solving Using C (PDF)**](Programming_for_Problem_Solving_Using_C.pdf)
 
-[**View Machine Learning with Python (PDF)**](Machine Learning with Python.pdf)
+[**View Machine Learning with Python (PDF)**](Machine_Learning_with_Python.pdf)
 
-[**View Salesforce Developer Virtual Internship (PDF)**](Salesforce developer virtual internship.pdf)
+[**View Salesforce Developer Virtual Internship (PDF)**](Salesforce_developer_virtual_internship.pdf)
 
 [**View Android Developer Virtual Internship (PDF)**](ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
 
