@@ -3,8 +3,6 @@
 👋 Hi, I’m @gowrapavan (Gowra Pavan Kumar), a passionate Software Engineering student with a strong interest in technology and programming. I have experience in web and application development, AI, and machine learning. I am always eager to learn and grow in this dynamic field.
 
 ---
-[**View My Resume (PDF)**](ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
-
 ## 📌 Key Achievements
 
 - **Enhanced User Engagement**: Achieved 95% user engagement on a Hugo blog.
@@ -81,6 +79,13 @@
 - **Description**: Utilized advanced AI tools to streamline the web application development process, leveraging Bolt.new for online development and Vercel v0 for AI-driven UI and code generation.
 
 ---
+
+## certificates
+
+[**View Android Developer Virtual Internship (PDF)**](ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
+[**View Al-ML Virtual Internship (PDF)**](Ai-ML-Gowra-Pavan-Kumar.pdf)
+[**View Generative Al Virtual Internship (PDF)**](Generative-AI-Gowra-Pavan-Kumar.pdf)
+
 
 ## 📫 Contact Me
 
