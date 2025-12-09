@@ -79,72 +79,323 @@
 - **Description**: Utilized advanced AI tools to streamline the web application development process, leveraging Bolt.new for online development and Vercel v0 for AI-driven UI and code generation.
 
 ---
-## Certificates
+## 🏆 Certificates
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Introduction to Cybersecurity</h3>
-    <a href="Introduction_to_Cybersecurity_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Introduction to Cybersecurity</h3>
+    <a href="Introduction_to_Cybersecurity_certificate_218x1a1227.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; /* Professional Blue */
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Introduction to Packet Tracer</h3>
-    <a href="Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Introduction to Packet Tracer</h3>
+    <a href="Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Networking Essentials</h3>
-    <a href="Networking_Essentials_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Networking Essentials</h3>
+    <a href="Networking_Essentials_certificate_218x1a1227.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">JavaScript Essentials 1</h3>
-    <a href="JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">JavaScript Essentials 1</h3>
+    <a href="JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Linux Essentials</h3>
-    <a href="Linux_Essentials.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Linux Essentials</h3>
+    <a href="Linux_Essentials.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Cybersecurity Essentials</h3>
-    <a href="Cybersecurity_Essentials_certificate.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Cybersecurity Essentials</h3>
+    <a href="Cybersecurity_Essentials_certificate.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Programming for Problem Solving Using C</h3>
-    <a href="Programming_for_Problem_Solving_Using_C.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Programming for Problem Solving Using C</h3>
+    <a href="Programming_for_Problem_Solving_Using_C.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Machine Learning with Python</h3>
-    <a href="Machine_Learning_with_Python.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Machine Learning with Python</h3>
+    <a href="Machine_Learning_with_Python.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Salesforce Developer Virtual Internship</h3>
-    <a href="Salesforce_developer_virtual_internship.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Salesforce Developer Virtual Internship</h3>
+    <a href="Salesforce_developer_virtual_internship.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Android Developer Virtual Internship</h3>
-    <a href="ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Android Developer Virtual Internship</h3>
+    <a href="ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">AI-ML Virtual Internship</h3>
-    <a href="Ai-ML-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">AI-ML Virtual Internship</h3>
+    <a href="Ai-ML-Gowra-Pavan-Kumar.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0;">Generative AI Virtual Internship</h3>
-    <a href="Generative-AI-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
-  </div>
+  <div style="
+    border: 1px solid #c4c4c4; 
+    border-radius: 12px; 
+    padding: 20px; 
+    width: 300px; 
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease-in-out;
+    background-color: #ffffff;
+">
+    <h3 style="margin-top: 0; margin-bottom: 15px; font-weight: 600; color: #333;">Generative AI Virtual Internship</h3>
+    <a href="Generative-AI-Gowra-Pavan-Kumar.pdf" 
+       style="
+           text-decoration: none; 
+           color: white; 
+           background-color: #007bff; 
+           padding: 10px 15px; 
+           border-radius: 6px;
+           font-weight: bold;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+       "
+       onmouseover="this.style.backgroundColor='#0056b3'"
+       onmouseout="this.style.backgroundColor='#007bff'"
+       >View PDF</a>
+  </div>
 
 </div>
-
 
 
 ## 📫 Contact Me
