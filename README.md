@@ -3,7 +3,7 @@
 👋 Hi, I’m @gowrapavan (Gowra Pavan Kumar), a passionate Software Engineering student with a strong interest in technology and programming. I have experience in web and application development, AI, and machine learning. I am always eager to learn and grow in this dynamic field.
 
 ---
-<iframe src="ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf" width="100%" height="600px"></iframe>
+[**View My Resume (PDF)**](ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
 
 ## 📌 Key Achievements
 
