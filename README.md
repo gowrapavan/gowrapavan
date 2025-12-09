@@ -82,29 +82,73 @@
 
 ## Certificates
 
-[**View Introduction to Cybersecurity (PDF)**](Introduction_to_Cybersecurity_certificate_218x1a1227.pdf)
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-[**View Introduction to Packet Tracer (PDF)**](Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Introduction to Cybersecurity</h3>
+    <a href="Introduction_to_Cybersecurity_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Networking Essentials (PDF)**](Networking_Essentials_certificate_218x1a1227.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Introduction to Packet Tracer</h3>
+    <a href="Introduction_to_Packet_Tracer_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View JavaScript Essentials 1 (PDF)**](JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Networking Essentials</h3>
+    <a href="Networking_Essentials_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Linux Essentials (PDF)**](Linux_Essentials.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">JavaScript Essentials 1</h3>
+    <a href="JavaScript_Essentials_1_-JSE-_certificate_218x1a1227.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Cybersecurity Essentials (PDF)**](Cybersecurity_Essentials_certificate.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Linux Essentials</h3>
+    <a href="Linux_Essentials.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Programming for Problem Solving Using C (PDF)**](Programming_for_Problem_Solving_Using_C.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Cybersecurity Essentials</h3>
+    <a href="Cybersecurity_Essentials_certificate.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Machine Learning with Python (PDF)**](Machine_Learning_with_Python.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Programming for Problem Solving Using C</h3>
+    <a href="Programming_for_Problem_Solving_Using_C.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Salesforce Developer Virtual Internship (PDF)**](Salesforce_developer_virtual_internship.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Machine Learning with Python</h3>
+    <a href="Machine_Learning_with_Python.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Android Developer Virtual Internship (PDF)**](ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Salesforce Developer Virtual Internship</h3>
+    <a href="Salesforce_developer_virtual_internship.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Al-ML Virtual Internship (PDF)**](Ai-ML-Gowra-Pavan-Kumar.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Android Developer Virtual Internship</h3>
+    <a href="ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
 
-[**View Generative Al Virtual Internship (PDF)**](Generative-AI-Gowra-Pavan-Kumar.pdf)
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">AI-ML Virtual Internship</h3>
+    <a href="Ai-ML-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Generative AI Virtual Internship</h3>
+    <a href="Generative-AI-Gowra-Pavan-Kumar.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
+  
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0;">Python Programming</h3>
+    <a href="Python_Programming.pdf" style="text-decoration: none; color: white; background-color: #4CAF50; padding: 8px 12px; border-radius: 5px;">View PDF</a>
+  </div>
+</div>
 
 
 ## 📫 Contact Me
