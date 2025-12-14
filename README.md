@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Gowra Pavan Kumar! 👋</h1>
+  <h1>Hi there, I'm Gowra Pavan Kumar! 👋 @gowrapavan </h1>
   <h3>Junior Full-Stack Developer | React, Next.js & Python</h3>
 
   <p>
