@@ -84,6 +84,7 @@ I am an Information Technology Graduate (2025) and a Full-Stack Developer based 
 * **Google Android Developer Virtual Internship** — [View PDF](/Certificates/ANDROID-DEVELOPER-Gowra-Pavan-Kumar.pdf)
 * **Salesforce Developer Virtual Internship** — [View PDF](/Certificates/Salesforce_developer_virtual_internship.pdf)
 * **Generative AI Virtual Internship** — [View PDF](/Certificates/Generative-AI-Gowra-Pavan-Kumar.pdf)
+* **AWS Cloud Practitioner** — [View PDF](/Certificates/AWS_Cloud_Practitioner.pdf)
 
 ### 📚 Technical Certifications
 * **Machine Learning with Python** — [View PDF](/Certificates/Machine_Learning_with_Python.pdf)
