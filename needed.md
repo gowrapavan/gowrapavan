@@ -88,3 +88,5 @@ SEARCH FILTER MANTRA
 - English-only work environment
 - Keywords in JD: 'Trainee', 'Graduate', 'Intern', 'Junior', 'Mentorship', 'Onboarding', 'Training Program', 'Willingness to learn'
 - Avoid: Senior-level, Local language required, heavy pre-knowledge or ML research focus
+- Date posted : Very Recent(past 7 days or 2 weeks)
+- For already graduated student
