@@ -27,7 +27,6 @@ I am a B.Tech Information Technology Graduate (2025) and a **Junior JavaScript D
 
 ## 📌 Key Achievements
 
-* 📈 **SEO Success:** Achieved **35+ organic Google Search clicks** in 28 days for AniPop.
 * ⚽ **Automation Efficiency:** Engineered a serverless system for Goal4u, reducing backend server dependency to **zero**.
 * ⚡ **Performance Optimization:** Built a custom Python/GitHub Actions caching tool (**shortsdata**) to bypass API rate limits.
 * 🏆 **Academic Excellence:** Completed 10+ certifications including **Google AI-ML** and **Salesforce Developer** virtual internships.
