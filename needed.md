@@ -2,7 +2,7 @@ CANDIDATE PROFILE
 -----------------
 Name: Gowra Pavan Kumar
 Degree: B.Tech Information Technology (2021–2025)
-CGPA: 6.9 (backlogs cleared)
+CGPA: 6.9 
 Nationality: Indian
 Language: English
 Experience: Fresher / Intern / Junior level
